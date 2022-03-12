@@ -1,8 +1,5 @@
 App:DllBuild.dll
 Icon:Icon.jpg
-Items:
-[
-  TestItem.txt
-]
+Items: [ TestItem.txt ]
 Version:1.0
 Namespace:DllBuild.Program
