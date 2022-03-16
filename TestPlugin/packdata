@@ -2,4 +2,3 @@ App:DllBuild.dll
 Icon:Icon.jpg
 Items: [ TestItem.txt ]
 Version:0.1
-Namespace:DllBuild.Program
