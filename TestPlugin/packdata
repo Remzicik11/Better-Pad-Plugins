@@ -1,4 +1,4 @@
-App:DllBuild.dll
+App:C:\Users\RamizKöfte\AppData\Local\BetterPad\Plugins\Smart View\netcoreapp3.1\PluginTemplate.dll
 Icon:Icon.jpg
 Items: [ TestItem.txt ]
 Version:0.1
